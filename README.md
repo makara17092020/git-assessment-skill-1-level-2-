@@ -47,7 +47,18 @@ The goal of theis project is to familiarize yourself with the following key conc
 The project leverages the following tools and technologies:
 
 | Technology | Version |
-| -------- |:------:|
+|  |:------:|
 | Git      | 2.39+  |
 | Git hub  | latest |
 | Markdown | N/A    |
+
+Additionally, you will use GitHub's pull request and issue tracking features for collaboration and conflict resolution.
+
+## Setup & Installation
+
+To get started with the project, follow these steps to clone the repository, set up your development environment, and begin working with Git.
+
+### Step 1: Clone the Repository
+
+Clone the project to your local machine:
+
