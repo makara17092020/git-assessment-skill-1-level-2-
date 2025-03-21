@@ -4,13 +4,13 @@ _A collabortive project esigned to learn GitHub workflows, handle pull requests,
 
 ## Table of Contents
 
-*[Introduction]
-*[Project Overview]
-*[Technologies Used]
-*[Setup & Installation]
-*[Brnching Strategy]
-*[Git Workflow]
-*[Pull Request & Merge Conflict Resolution]
-*[Contributing]
-*[License]
-*[Next Steps]
+* [Introduction]
+* [Project Overview]
+* [Technologies Used]
+* [Setup & Installation]
+* [Brnching Strategy]
+* [Git Workflow]
+* [Pull Request & Merge Conflict Resolution]
+* [Contributing]
+* [License]
+* [Next Steps]
