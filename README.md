@@ -49,6 +49,7 @@ The project leverages the following tools and technologies:
 | Technology | Version |
 | -------- | ------ |
 | Git      | 2.39+  |
+           | ------ |
 | Git hub  | latest |
 | Markdown | N/A    |
 
