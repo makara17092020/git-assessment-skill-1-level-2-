@@ -1,5 +1,16 @@
-# git-assessment-skill-1-level-2-
+# Git assessment project
 
-## Project Title
-This is the best project ever!
+_A collabortive project esigned to learn GitHub workflows, handle pull requests, and resolve merge conflicts._
 
+## Table of Contents
+
+*[Introduction]
+*[Project Overview]
+*[Technologies Used]
+*[Setup & Installation]
+*[Brnching Strategy]
+*[Git Workflow]
+*[Pull Request & Merge Conflict Resolution]
+*[Contributing]
+*[License]
+*[Next Steps]
