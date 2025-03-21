@@ -4,8 +4,8 @@ _A collabortive project esigned to learn GitHub workflows, handle pull requests,
 
 ## Table of Contents
 
-* [Introduction]
-* [Project Overview]
+* [Introduction](https://markdownlivepreview.com/).
+* [Project Overview](https://markdownlivepreview.com/).
 * [Technologies Used]
 * [Setup & Installation]
 * [Brnching Strategy]
@@ -14,4 +14,3 @@ _A collabortive project esigned to learn GitHub workflows, handle pull requests,
 * [Contributing]
 * [License]
 * [Next Steps]
-You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
