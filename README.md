@@ -24,7 +24,7 @@ The skills you gain here will help you beome proficient in **version** control a
 
 ## Project Overview
 
->> The goal of theis project is to familiarize yourself with the following key concepts.
+The goal of theis project is to familiarize yourself with the following key concepts.
 
 1. **Version Control**: Understanding how to manage project code using Git.
 
@@ -34,10 +34,20 @@ The skills you gain here will help you beome proficient in **version** control a
 
 4. **Merge Conflicts**: Resolving conflicts when multiple developers modify the same file. By the end of the project, you should be able to:
 
-> * Create and manage branches in Git.
+    * Create and manage branches in Git.
 
-> * Use GitHub pull requests for collaboration.
+    * Use GitHub pull requests for collaboration.
 
-> * Resolve merge conflicts manually.
+    * Resolve merge conflicts manually.
 
-> * Follow the Git flow process in a team environment.
+    * Follow the Git flow process in a team environment.
+
+## Technologies Used
+
+The project leverages the following tools and technologies:
+
+| Technology | Version |
+| -------- |:------:|
+| Git      | 2.39+  |
+| Git hub  | latest |
+| Markdown | N/A    |
