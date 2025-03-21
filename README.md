@@ -47,7 +47,7 @@ The goal of theis project is to familiarize yourself with the following key conc
 The project leverages the following tools and technologies:
 
 | Technology | Version |
-|  |:------:|
+| -------- |:------:|
 | Git      | 2.39+  |
 | Git hub  | latest |
 | Markdown | N/A    |
