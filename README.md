@@ -1,6 +1,6 @@
 # Git assessment project
 
-_A collabortive project esigned to learn GitHub workflows, handle pull requests, and resolve merge conflicts._
+A collabortive project esigned to learn GitHub workflows, handle pull requests, and resolve merge conflicts.
 
 ## Table of Contents
 
@@ -24,4 +24,4 @@ The skills you gain here will help you beome proficient in **version** control a
 
 ## Project Overview
 
-_The goal of theis project is to familiarize yourself with the following key concepts._
+The goal of theis project is to familiarize yourself with the following key concepts.
