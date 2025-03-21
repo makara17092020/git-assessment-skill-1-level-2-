@@ -6,11 +6,19 @@ _A collabortive project esigned to learn GitHub workflows, handle pull requests,
 
 * [Introduction](https://markdownlivepreview.com/).
 * [Project Overview](https://markdownlivepreview.com/).
-* [Technologies Used]
-* [Setup & Installation]
-* [Brnching Strategy]
-* [Git Workflow]
-* [Pull Request & Merge Conflict Resolution]
-* [Contributing]
-* [License]
-* [Next Steps]
+* [Technologies Used](https://markdownlivepreview.com/).
+* [Setup & Installation](https://markdownlivepreview.com/).
+* [Brnching Strategy](https://markdownlivepreview.com/).
+* [Git Workflow](https://markdownlivepreview.com/).
+* [Pull Request & Merge Conflict Resolution](https://markdownlivepreview.com/).
+* [Contributing](https://markdownlivepreview.com/).
+* [License](https://markdownlivepreview.com/).
+* [Next Steps](https://markdownlivepreview.com/).
+
+## Introduction
+
+_Welcome to the **Git Assessment Project**! This project is designed to teach you about Git 
+Workflows, Using GitHubfor collaboration, and handing merge conflicts. As a part of this project,
+you'll practice using **feature branches**, **creating pull requests**, and **resolving merge conflicts**.
+The skills you gain here will help you beome proficient in **version** control and **collaborative software development**
+
